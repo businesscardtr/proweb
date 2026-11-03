@@ -1,6 +1,6 @@
 import type { NextConfig } from "next";
 
-const repoName = "eray-butik";
+const repoName = "proweb";
 const isGithubPages = process.env.GITHUB_PAGES === "true";
 
 const nextConfig: NextConfig = {
